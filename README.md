@@ -55,3 +55,18 @@ It is a structured system for public self-declaration and document visibility.
 ## 🌐 More
 
 [Coming soon: W‑DIP.org or project site]
+# W‑DIP: We Do It Properly
+
+This repository contains the original, signed concept document for W‑DIP, a voluntary compliance visibility system for lawful freelancers and microbusinesses in the EU.
+
+- 📄 `W-DIP concept.pdf`: Digitally signed version of the published W‑DIP concept
+- 📜 Licence: CC BY-NC-ND 4.0 – Attribution required, non-commercial use only, no modifications
+
+Author: William Waters  
+Entity: Tuairisic OÜ (Estonia)  
+Estonian Business Register: [https://ariregister.rik.ee/eng/company/16557319/Tuairisic-OU](https://ariregister.rik.ee/eng/company/16557319/Tuairisic-OU)
+
+## Licence
+
+This work is licensed under the Creative Commons Attribution–NonCommercial–NoDerivatives 4.0 International Licence.  
+To view a copy, visit [https://creativecommons.org/licenses/by-nc-nd/4.0/](https://creativecommons.org/licenses/by-nc-nd/4.0/)
