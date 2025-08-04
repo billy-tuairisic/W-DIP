@@ -1,2 +1,7 @@
 This work is licensed under the Creative Commons Attribution–NonCommercial–NoDerivatives 4.0 International Licence.
-To view a copy of this licence, visit https://creativecommons.org/licenses/by-nc-nd/4.0
+
+You may copy and redistribute the material in any medium or format, for non-commercial purposes only, with appropriate attribution.
+
+You may not remix, transform, or build upon this material.
+
+Licence details: https://creativecommons.org/licenses/by-nc-nd/4.0/
