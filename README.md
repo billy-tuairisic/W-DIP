@@ -1,31 +1,89 @@
-# W-DIP
-Original concept and reference implementation of W‑DIP (We Do It Properly), a structured, voluntary compliance visibility system for lawful freelancers and microbusinesses in the EU. Authored and signed by Tuairisic OÜ (Estonia) in 2025.
-# W‑DIP: We Do It Properly
+W-DIP: Compliance Visibility System
 
-This repository contains the signed, published concept for **W‑DIP**, a structured compliance visibility system designed for lawful freelancers and micro-operators across the European Union.
+W-DIP is a structured system that enables freelancers and microbusinesses to demonstrate compliance readiness through standardised documentation and public visibility.
 
----
+⸻
 
-## 🔍 What is W‑DIP?
+Overview
 
-W‑DIP provides:
-- A **tiered badge structure** to signal GDPR, tax, and employment compliance
-- A **public directory and trustmark** system for visibility
-- Optional **NFT-based credentials** (non-transferable “compliance passports”)
-- A legal and ethical **alternative to enforcement vacuum**
+W-DIP provides a simple, repeatable way for small operators to signal that they meet basic compliance requirements across areas such as data protection, tax, and employment.
 
-W‑DIP is *not* a certification body or regulator. It verifies document presence, not legal content.
+It focuses on documented readiness, not legal certification.
 
----
+⸻
 
-## 📄 Contents
+Problem
 
-- `W-DIP concept.pdf` — Human-readable version of the original document
-- `W-DIP concept.asice` — Digitally signed container using Estonian e-ID (timestamped)
-- `LICENSE.txt` — Creative Commons BY-NC-ND 4.0 licence declaration
-- `README.md` — This file
+Freelancers and microbusinesses often operate across jurisdictions without a clear way to demonstrate compliance.
 
----
+This creates friction in:
+	•	Hiring and contracting
+	•	Platform access
+	•	Cross-border work
+	•	Trust between parties
+
+Larger organisations solve this with internal compliance systems. Smaller operators lack an equivalent.
+
+⸻
+
+Solution
+
+W-DIP introduces a lightweight system for compliance visibility based on structured documentation and standardised signals.
+
+⸻
+
+How It Works
+	1.	Document Submission
+Participants provide defined compliance documents (e.g. registration, tax, GDPR-related records)
+	2.	Structure Verification
+The system verifies the presence and structure of documentation, not legal correctness
+	3.	Tiered Classification
+A tiered model reflects the level of documentation completeness
+	4.	Public Visibility
+A directory or profile enables participants to signal compliance status to clients and partners
+
+⸻
+
+Outputs
+	•	Clear, standardised compliance signal
+	•	Reduced onboarding friction
+	•	Improved trust between operators and clients
+	•	Consistent baseline across jurisdictions
+
+⸻
+
+Scope
+
+W-DIP is not:
+	•	A certification body
+	•	A regulator
+	•	A legal advisory service
+
+It is a visibility and structuring system.
+
+⸻
+
+Repository Contents
+	•	W-DIP concept.pdf — Original published concept document
+	•	W-DIP concept.asice — Digitally signed version (Estonian e-ID)
+	•	LICENSE.txt — Licence information
+
+⸻
+
+Authorship
+
+William Waters
+Tuairisic OÜ (Estonia)
+https://ariregister.rik.ee/eng/company/16557319/Tuairisic-OU
+
+Digitally signed using Estonian e-ID.
+
+⸻
+
+Licence
+
+Creative Commons Attribution–NonCommercial–NoDerivatives 4.0 International
+https://creativecommons.org/licenses/by-nc-nd/4.0/
 
 ## 🔐 Authorship
 
